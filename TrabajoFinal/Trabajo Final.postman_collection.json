@@ -1,0 +1,293 @@
+{
+	"info": {
+		"_postman_id": "a886183e-e081-4f00-a0f0-da5ff96e862c",
+		"name": "Trabajo Final",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.using.buenosaires.gob.ar/normalizar",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"using",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.using.buenosaires.gob.ar/normalizar",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"using",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://servicios.usig.buenosaires.gob.ar/normalizar/?direccion",
+					"protocol": "http",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": null
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=loria 300, lomas",
+					"protocol": "http",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "loria 300, lomas"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=corrientes y santa fe",
+					"protocol": "http",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "corrientes y santa fe"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=loria",
+					"protocol": "http",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "loria"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=pachco y pacheco melo",
+					"protocol": "http",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "pachco y pacheco melo"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=2250 y 1240, san isidro",
+					"protocol": "http",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "2250 y 1240, san isidro"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.402165&lat=-34.762920&tipoResultado=calle_y_calle ",
+					"protocol": "http",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.402165"
+						},
+						{
+							"key": "lat",
+							"value": "-34.762920"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "calle_y_calle "
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=callao junin uruguay y corrientes, caba",
+					"protocol": "http",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "callao junin uruguay y corrientes, caba"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
